@@ -1,7 +1,5 @@
 package code.challenge.transactionrecord.controller;
 
-import code.challenge.transactionrecord.converter.TransactionConverter;
-import code.challenge.transactionrecord.model.Transaction;
 import code.challenge.transactionrecord.model.dto.TransactionDTO;
 import code.challenge.transactionrecord.service.TransactionService;
 import jakarta.validation.Valid;
